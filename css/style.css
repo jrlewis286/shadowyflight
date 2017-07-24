@@ -37,7 +37,7 @@ header {
     font-family: 'Pacifico', cursive;
     background-color: #C0C0C0;
     background-position: center;
-    background-image: url("/images2/beach-beautiful-blue-coast-40976.jpeg")
+    background-image: url("../images2/beach-beautiful-blue-coast-40976.jpeg")
 }
 header a:visited {
     color: white;
