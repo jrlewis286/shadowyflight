@@ -27,7 +27,7 @@ nav a:visited {
     color: #003366;   
 }
 header {
-    height:650px;  /* issue
+    height:650px;  /* issue*/ 
     /* height: calc(100vh - 50px);*/ 
     color:  #fff0f5;
     font-size: 24px;
@@ -47,11 +47,34 @@ header a:hover {
     background: #888;
     color: #000000;
 }
-/* incase of aditonal page /* 
+/* class links didn't use 
 .aboutus {
     background-image: url("../images/DSC00494.jpg") 
     
 }
+
+.contactus {
+    background-image: url("../images/burger.jpg")
+} */
+
+       /* link didn't take 
+        a: link {
+background-image: url(https://www.earthcam.com/usa/newyork/highline/?cam=highline) }*/
+    
+    
+    /* "a" went red" 
+    a:visted {
+background-image: url("https://www.earthcam.com/usa/newyork/highline/?cam=highline") }*/
+    
+       /*fonts wrong
+{   font-family: 'Orbitron', sans-serif
+    font-family: 'Merriweather', serif;
+padding-top: 10px; }*/
+
+/* not working 
+.aboutus: {  
+background-image: url("../images/PSX_20140215_001149.jpg")
+} */
 
 #section-one {
     display: flex;
@@ -74,7 +97,25 @@ display: flex;
     background-size: cover; /* controlled and resized image in box */
 }
 
+/* ----------------PHOTOS for ABOUTUS PAGE ------------ */
+.flag {
+    background-image: url("../images/flag.jpg")
+    
+}
 
+.mutedpark {
+    background-image: url("../images/mutedpark.jpg")
+}
+/* about-section-two not working 
+#aboutus-section-two article: {
+    background-image: url("../images/burger.jpg") */
+}
+
+.water {
+    background-image: url("../images/water.jpg")
+}
+.fishheads {
+    background-image: url("../images/fishheads.jpg")
 }
 /* ---------------- ABOVE PHOTOS for ABOUTUS PAGE ------------ */
 
@@ -93,22 +134,29 @@ display: flex;
         
     
 }
-/* --------THIS CONTROLS PHOTOS ON ABOUT US PAGE---------  
+/* --------THIS CONTROLS PHOTOS ON ABOUT US PAGE--------- */ 
+/*
+#aboutus-section-one article: first-child {
+    background-image: url("../images/DSC00536.jpg")
+    display: flex; 
+justify-content: space-between; }*/
+
+/* -- might not correct 
+#container2 {
     
 }
 #header2 {
     background-image: url("../images/DSC00494.jpg")
     color:  #778899;
     background-color: #986960;
-    background-position: center */
-} 
+    background-position: center
+}  */
 
 /*------THIS CONTROLS THE BLACK AND GREY LINE BELOW PHOTOS ---------*/
 #section-two {
 min-height: 20px;
     background-color: #000000;
 }
-
 footer {
     min-height: 20px;
     background-color: #778899; 
