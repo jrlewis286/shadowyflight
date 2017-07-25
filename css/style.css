@@ -101,13 +101,14 @@ display: flex;
     color:  #778899;
     background-color: #986960;
     background-position: center */
-}  */
+} 
 
 /*------THIS CONTROLS THE BLACK AND GREY LINE BELOW PHOTOS ---------*/
 #section-two {
 min-height: 20px;
     background-color: #000000;
 }
+
 footer {
     min-height: 20px;
     background-color: #778899; 
